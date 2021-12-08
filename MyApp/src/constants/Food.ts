@@ -1,0 +1,58 @@
+export const food = [
+    {
+        id: '1',
+        title: 'Beef Bone',
+        description: '1kg, Priceg',
+        price: '$4,99',
+        image: require('../assets/img/Beef.png'),
+    },
+    {
+        id: '2',
+        title: 'Boiler Chicken',
+        description: '1kg, Priceg',
+        price: '$4,99',
+        image: require('../assets/img/Chicken.png'),
+    },
+    {
+        id: '3',
+        title: 'Egg Chicken Red',
+        description: '4pcs, Price',
+        price: '$1,99',
+        image: require('../assets/img/Eggred.png'),
+    },
+    {
+        id: '4',
+        title: 'Egg Chicken White',
+        description: '180g, Price',
+        price: '$1,50',
+        image: require('../assets/img/Eggwhite.png'),
+    },
+    {
+        id: '5',
+        title: 'Egg Pasta',
+        description: '30gm, Price',
+        price: '$15,99',
+        image: require('../assets/img/Eggpasta.png'),
+    },
+    {
+        id: '6',
+        title: 'Egg Noddles',
+        description: '2L, Price',
+        price: '$15,99',
+        image: require('../assets/img/Eggnoddle.png'),
+    },
+    {
+        id: '7',
+        title: 'Mayonnais Eggless',
+        description: '2L, Price',
+        price: '$15,99',
+        image: require('../assets/img/Mayonnaise.png'),
+    },
+    {
+        id: '8',
+        title: 'Egg Noddles',
+        description: '2L, Price',
+        price: '$15,99',
+        image: require('../assets/img/Noddles.png'),
+    },
+]
